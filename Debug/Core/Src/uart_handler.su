@@ -1,0 +1,5 @@
+../Core/Src/uart_handler.c:14:6:UART_Init	16	static
+../Core/Src/uart_handler.c:21:6:UART_IsNewLineReady	4	static
+../Core/Src/uart_handler.c:26:6:UART_GetLine	16	static
+../Core/Src/uart_handler.c:43:6:UART_Transmit	24	static
+../Core/Src/uart_handler.c:49:6:UART_Receive_Callback	8	static
