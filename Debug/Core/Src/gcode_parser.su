@@ -1,2 +1,0 @@
-../Core/Src/gcode_parser.c:9:6:GCode_ParseLine	32	static
-../Core/Src/gcode_parser.c:83:6:GCode_ExecuteCommand	48	static
